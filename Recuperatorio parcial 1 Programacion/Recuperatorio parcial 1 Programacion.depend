@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606685266 source:c:\users\damia\documents\damian\programacion utn\2do cuatrimestre\recuperatorio parcial 1 programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606739689 source:c:\users\damia\documents\damian\recuperatorio parcial 1 programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
